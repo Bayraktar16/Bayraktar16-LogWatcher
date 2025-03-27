@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="bayraktar16_logo.png" alt="Bayraktar16 Logo" width="200"/>
+</p>
 # BAYRAKTAR16 – LogWatcher v1
 
 **"Sistemi koruyan göz, sessiz çalışır."**
@@ -25,5 +28,6 @@ Bu proje MIT lisansı ile sunulmuştur.
 
 ## Ait Olduğu Duruş:
 
-> **“Ben vatan için her şeyi yapabilecek biriyim.”  
+> **“Bilginin ışığında yürürüm, sessizliğin içinde duyarım”
 > BAYRAKTAR16 - Sancak Muhafızları**
+> 
